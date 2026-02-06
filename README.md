@@ -1,1 +1,3 @@
-This is a recipe website project, I'm suposed to have finished the HTML super basics.
+# Recipe Website
+
+A recipe website project demonstrating HTML fundamentals.
